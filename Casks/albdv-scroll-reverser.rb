@@ -1,4 +1,4 @@
-cask "scroll-reverser182" do
+cask "albdv-scroll-reverser" do
     version "1.8.2,10505"
     sha256 "afe125b05ef1740f9a95101233006453b0e02bd71b6195608414bab5fb5d2c6a"
   
